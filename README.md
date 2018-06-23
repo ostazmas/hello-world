@@ -1,3 +1,3 @@
 # hello-world
-test for reprository
+test for repository
 and commits
